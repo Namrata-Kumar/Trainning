@@ -10,7 +10,7 @@ class calci {
 	}
 
 	public static void main(String args[]) {
-		System.out.println(add(10, 20));
+		System.out.println("Add="+ add(10, 20));
 		System.out.println("Diff="+ diff(10, 20));
 	}
 }
