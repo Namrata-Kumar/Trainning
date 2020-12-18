@@ -3,7 +3,7 @@ public class Display {
 
 	public static void main(String args[]) {
 		System.out.println("Hi");
-		System.out.println("You Rock");
+		System.out.println("You Rock Ecipse 2");
 	}
 
 }
